@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 Git
-Node, Node package Manager
+Node
 
 ### Setup Local
 
